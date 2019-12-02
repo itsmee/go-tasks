@@ -1,2 +1,2 @@
 # go-tasks
-Set of small challenges in golang
+Set of small challenges in Golang
